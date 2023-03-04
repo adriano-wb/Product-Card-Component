@@ -88,7 +88,6 @@ body {
 
 .price__current {
   color: var(--dark-cyan);
-  text-shadow: 1px 1px 2px #6667;
   display: inline-block;
   font-family: var(--font-fraunces);
   margin-left: 3px;
