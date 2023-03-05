@@ -83,7 +83,6 @@ body {
 .price {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   margin-top: 26px;
 }
 
@@ -99,6 +98,7 @@ body {
   display: inline-block;
   color: var(--dark-grayish-blue);
   font-family: var(--font-montserrat);
+  margin-left: 21px;
 }
 
 .card-button {
