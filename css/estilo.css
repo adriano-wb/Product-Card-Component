@@ -45,13 +45,25 @@ body {
   width: 100%;
 }
 
-.card-article {
-  padding: 21px;
-  padding-top: 5px;
-}
+
+
+
+.card-aside {
+  flex-basis: 50%;
+} 
 
 .card-picture__img {
   border-radius: 11px 11px 0 0;
+}
+
+.card-article {
+
+  padding: 21px;
+
+  padding-top: 5px;
+
+  flex-basis: 50%;
+
 }
 
 .card-title {
