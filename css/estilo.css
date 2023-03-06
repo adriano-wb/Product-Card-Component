@@ -38,6 +38,7 @@ body {
 
 .card {
   background-color: var(--white);
+  display: flex;
   border-radius: 11px;
   height: auto;
   margin: 0;
@@ -147,6 +148,7 @@ body {
   }
 
   .card {
+    flex-flow: column wrap;
     height: 493px;
     width: 657px;
   }
